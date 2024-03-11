@@ -39,7 +39,7 @@ export default async function Home() {
             </div>
           </div>
           <div className="row">
-            {latestBlogs.map(item => {
+            {latestBlogs?.map(item => {
               return (
                 <div className="col-md-4">
                   <div className="card card-blog">

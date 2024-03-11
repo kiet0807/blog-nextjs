@@ -19,15 +19,15 @@ const About = () => {
                                     <div className="row">
                                         <div className="col-sm-6 col-md-5">
                                             <div className="about-img">
-                                                <img src="../images/logo-ai.png" className="img-fluid rounded b-shadow-a" alt="" />
+                                                <img src="../images/logo.png" className="img-fluid rounded b-shadow-a" alt="" />
                                             </div>
                                         </div>
                                         <div className="col-sm-6 col-md-7">
                                             <div className="about-info mt-5">
-                                                <p><span className="title-s">Name: </span> <span>NXB Dev</span></p>
-                                                <p><span className="title-s">Profile: </span> <span>Fullstack Js Developer</span></p>
-                                                <p><span className="title-s">Email: </span> <span>contact@example.com</span></p>
-                                                <p><span className="title-s">Phone: </span> <span>(617) 557-0089</span></p>
+                                                <p><span className="title-s">Name: </span> <span>Kiet Dev</span></p>
+                                                <p><span className="title-s">Profile: </span> <span>Fullstack Developer</span></p>
+                                                <p><span className="title-s">Email: </span> <span>kiet080797@gmail.com</span></p>
+                                                <p><span className="title-s">Phone: </span> <span>0347551122</span></p>
                                             </div>
                                         </div>
                                     </div>
@@ -59,20 +59,13 @@ const About = () => {
                                             </h5>
                                         </div>
                                         <p className="lead">
-                                            Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur arcu erat, accumsan id
-                                            imperdiet et, porttitor
-                                            at sem. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Nulla
-                                            porttitor accumsan tincidunt.
+                                            Student at University of Information Technology - Vietnam National University, HCMC (UIT).
                                         </p>
                                         <p className="lead">
-                                            Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus suscipit tortor eget felis
-                                            porttitor volutpat. Vestibulum
-                                            ac diam sit amet quam vehicula elementum sed sit amet dui. porttitor at sem.
+                                            Major: Computer Science.
                                         </p>
                                         <p className="lead">
-                                            Nulla porttitor accumsan tincidunt. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
-                                            Nulla porttitor accumsan
-                                            tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+                                            As a Front-end Developer who wants to apply his knowledge of the field of Front-end Javascript into practice.
                                         </p>
                                     </div>
                                 </div>
